@@ -5,8 +5,9 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Java&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/C#-F7DF1E.svg?style=for-the-badge&logo=C#&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Java-E23310.svg?style=for-the-badge&logo=Java&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/-C%23-57b9d3?logo=Csharp&style=for-the-badge&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/C++-000000?logo=c%2B%2B&style=for-the-badge&logoColor=3240aa" />&nbsp
   <img src="https://img.shields.io/badge/Python-E34F26.svg?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
 </div>
 
@@ -31,9 +32,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/visual%20studio-2C2C32.svg?style=for-the-badge&logo=visual%20studio&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity" />&nbsp
   
 </div>
 
