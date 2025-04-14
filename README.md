@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NoImpMe/NoImpMe/blob/main/profile%20source%20img.jpeg" width=900/>
+  <img src="https://github.com/NoImpMe/NoImpMe/blob/main/Pikachu.jpeg" width=500/>
 </div>
 
 <!--내용 부분-->
