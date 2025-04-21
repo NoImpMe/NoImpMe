@@ -32,8 +32,6 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Unity-57b9d3.svg?style=for-the-badge&logo=unity" />&nbsp
   
 </div>
