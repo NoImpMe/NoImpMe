@@ -46,5 +46,5 @@
 </div>
 <h3 align="center"> Introduce </h3>
 <div align="center">
-  영남대학교 컴퓨터 공학과 4학년 재학
+  영남대학교 컴퓨터 공학과 졸업
 </div>
